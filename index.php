@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Hello Dolly</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/bootstrap.min.css.css">
+    <link rel="stylesheet" href="assets/style.css">
     
 </head>
 <body>
@@ -37,7 +38,7 @@
                 </div>
                 <div class="col-md-8">
                     <p>
-                        <img class="img-fluid" src="https://images.pexels.com/photos/301929/pexels-photo-301929.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=800"
+                        <img class="img-fluid" src="images/pexels-photo-301929.jpeg"
                              alt="Post Title">
                     </p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut deserunt dicta doloribus error,
@@ -96,7 +97,7 @@
                 </div>
                 <div class="col-md-8">
                     <p>
-                        <img class="img-fluid" src="https://images.pexels.com/photos/707344/pexels-photo-707344.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                        <img class="img-fluid" src="images/pexels-photo-707344.jpeg"
                              alt="Post Title">
                     </p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut deserunt dicta doloribus error,
